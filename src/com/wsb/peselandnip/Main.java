@@ -7,6 +7,9 @@ import static com.wsb.peselandnip.Pesel.*;
 
 public class Main {
 
+//    1. Program sprawdzający poprawność numerów PESEL, NIP.
+//    Maksymalna liczba punktów: 15
+
     public static void main(String[] args) {
         Scanner scDecyzja = new Scanner(System.in);
         System.out.println("Chcesz sprawdzic PESEL czy NIP?");
